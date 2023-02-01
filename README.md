@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coli98
-- 👀 I’m interested in mobile application development in android studio and Iot. 
+- 👀 I’m interested in mobile application development, especially now in Kotlin Multiplatform Mobile (KMM).
 - 🌱 I’m currently learning Kotlin and performing Android Application 
 
 
